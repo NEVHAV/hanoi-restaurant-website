@@ -3,7 +3,7 @@ import Homepage from '../../components/home/Homepage'
 import axios from 'axios'
 import Footer from '../../components/layout/Footer'
 import Header from '../../components/layout/Header'
-import API from 'constants/api'
+import API from '../../constants/api'
 
 export default class index extends Component {
   constructor (props) {

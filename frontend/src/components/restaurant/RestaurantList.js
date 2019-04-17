@@ -4,7 +4,7 @@ import {
 } from "react-router-dom";
 import {Image} from "cloudinary-react";
 
-import "components/restaurant/restaurant-2.css"
+import "../../components/restaurant/restaurant-2.css"
 import StarRatings from "react-star-ratings";
 
 import Pagination from "react-js-pagination";

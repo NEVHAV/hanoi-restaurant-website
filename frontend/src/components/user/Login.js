@@ -2,7 +2,7 @@
 /* eslint-disable no-useless-escape*/
 import React, { Component } from 'react'
 import classNames from 'classnames'
-import { AuthService } from 'components/AuthServices'
+import { AuthService } from '../../components/AuthServices'
 import './login.sass'
 
 export default class Login extends Component {

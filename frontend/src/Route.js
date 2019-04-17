@@ -6,7 +6,7 @@ import LogIn from './pages/user/LogIn'
 import SignUp from './pages/user/SignUp'
 import Profile from './pages/user/Profile'
 import PeopleProfile from './pages/user/PeopleProfile'
-import withAuth from 'components/AuthServices'
+import withAuth from './components/AuthServices'
 import {withRouter} from "react-router"
 
 //restaurant

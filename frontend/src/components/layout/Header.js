@@ -1,8 +1,8 @@
 import React, {Component} from 'react'
 import {Link} from 'react-router-dom'
-import {AuthService} from 'components/AuthServices'
+import {AuthService} from '../../components/AuthServices'
 import Modal from 'react-responsive-modal'
-import SearchBox from 'components/SearchBox'
+import SearchBox from '../../components/SearchBox'
 import API from '../../constants/api'
 import axios from "axios";
 import Moment from 'react-moment';

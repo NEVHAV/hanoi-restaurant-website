@@ -1,8 +1,8 @@
 import React, {Component} from 'react'
-import {AuthService} from 'components/AuthServices'
+import {AuthService} from '../../components/AuthServices'
 
 // api
-import API from 'constants/api'
+import API from '../../constants/api'
 import classNames from "classnames";
 
 export default class Signup extends Component {

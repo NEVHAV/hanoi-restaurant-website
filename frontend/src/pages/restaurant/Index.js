@@ -3,7 +3,7 @@ import axios from 'axios'
 import Footer from '../../components/layout/Footer'
 import RestaurantDetail from '../../components/restaurant/RestaurantDetail'
 import Header from '../../components/layout/Header'
-import API from 'constants/api'
+import API from '../../constants/api'
 import RestaurantList from "../../components/restaurant/RestaurantList";
 
 export default class index extends Component {

@@ -1,5 +1,5 @@
 import React from 'react'
-import PeopleProfile from 'components/user/PeopleProfile'
+import PeopleProfile from '../../components/user/PeopleProfile'
 import Header from '../../components/layout/Header'
 
 export default class Profile extends React.Component {

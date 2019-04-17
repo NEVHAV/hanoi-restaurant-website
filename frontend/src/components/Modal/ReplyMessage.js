@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {Modal} from 'react-bootstrap'
 import 'moment-timezone';
-import 'components/Modal/editMessage.css';
+import '../../components/Modal/editMessage.css';
 import axios from "axios";
 import API from "../../constants/api";
 import {Image} from "cloudinary-react";

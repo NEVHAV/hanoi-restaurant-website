@@ -1,5 +1,5 @@
 import React from 'react'
-import UserProfile from 'components/user/UserProfile'
+import UserProfile from '../../components/user/UserProfile'
 import Header from '../../components/layout/Header'
 
 export default class Profile extends React.Component {

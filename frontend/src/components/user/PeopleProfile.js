@@ -3,7 +3,7 @@ import ProfileEdit from './ProfileEdit'
 import Modal from 'react-responsive-modal'
 import { Link, } from 'react-router-dom'
 import {Image, Transformation} from 'cloudinary-react';
-import API from 'constants/api'
+import API from '../../constants/api'
 import './UserProfile.css'
 
 export default class PeopleProfile extends React.Component {

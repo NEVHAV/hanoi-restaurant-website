@@ -3,8 +3,8 @@ import ProfileEdit from './ProfileEdit'
 import Modal from 'react-responsive-modal'
 import { Link, } from 'react-router-dom'
 import {Image, Transformation} from 'cloudinary-react';
-import {AuthService} from 'components/AuthServices'
-import API from 'constants/api'
+import {AuthService} from '../../components/AuthServices'
+import API from '../../constants/api'
 import './UserProfile.css'
 
 export default class UserProfile extends React.Component {

@@ -1,10 +1,10 @@
 import React, {Component} from 'react'
-import {AuthService} from 'components/AuthServices'
+import {AuthService} from '../../components/AuthServices'
 
 import PropTypes from 'prop-types';
 
 // api
-import API from 'constants/api'
+import API from '../../constants/api'
 //css
 import './ProfileEdit.css'
 

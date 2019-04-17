@@ -3,7 +3,7 @@ import {
     Link,
 } from "react-router-dom";
 
-import "components/restaurant/restaurant.css"
+import "../../components/restaurant/restaurant.css"
 import Slider from "react-slick";
 import StarRatings from 'react-star-ratings';
 import "slick-carousel/slick/slick.css";
@@ -13,7 +13,7 @@ import Moment from 'react-moment';
 import 'moment-timezone';
 import axios from "axios";
 import {Image, Transformation} from 'cloudinary-react';
-import API from 'constants/api';
+import API from '../../constants/api';
 import Modal from 'react-responsive-modal';
 import EditMessage from "../Modal/EditMessage";
 import ReplyMessage from "../Modal/ReplyMessage";
